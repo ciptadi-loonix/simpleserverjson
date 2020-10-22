@@ -1,0 +1,23 @@
+{
+  "name": "simpleserverjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciptadi-loonix/simpleserverjson.git"
+  },
+  "author": "erfanbagus@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciptadi-loonix/simpleserverjson/issues"
+  },
+  "homepage": "https://github.com/ciptadi-loonix/simpleserverjson#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
