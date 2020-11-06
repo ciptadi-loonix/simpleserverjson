@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "Account": {
+  "account": {
     "userID": "809d7aea9eacf339b2e35e3c8ae0a57c",
     "userName": "account1",
     "password": "account123",
