@@ -1,29 +1,27 @@
 {
   "version": 1,
-  "Account": [
-    {
-      "userID": "809d7aea9eacf339b2e35e3c8ae0a57c",
-      "userName": "account1",
-      "password": "account123",
-      "loginType": "facebook",
-      "loginID": "733f46326322ab53771af3768d2c061e",
-      "lastLogin": 1603385040152,
-      "playerData": [
-        {
-          "playerID": "1234",
-          "serverID": 1,
-          "userName": "Lockheed",
-          "avatar": "img1",
-          "level": 0,
-          "experience": 0,
-          "energy": 30,
-          "arenaTicket": 5,
-          "diamond": 0,
-          "gold": 1000,
-          "guildName": "RavenClaw",
-          "arenaRank": 1
-        }
-      ]
-    }
-  ]
+  "Account": {
+    "userID": "809d7aea9eacf339b2e35e3c8ae0a57c",
+    "userName": "account1",
+    "password": "account123",
+    "loginType": "facebook",
+    "loginID": "733f46326322ab53771af3768d2c061e",
+    "lastLogin": "1603385040152",
+    "playerData": [
+      {
+        "playerID": "1234",
+        "serverID": 1,
+        "userName": "Lockheed",
+        "avatar": "img1",
+        "level": 0,
+        "experience": 0,
+        "energy": 30,
+        "arenaTicket": 5,
+        "diamond": 0,
+        "gold": 1000,
+        "guildName": "RavenClaw",
+        "arenaRank": 1
+      }
+    ]
+  }
 }
