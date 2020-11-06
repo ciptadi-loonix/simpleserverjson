@@ -13,14 +13,14 @@
         "serverID": 1,
         "userName": "Lockheed",
         "avatar": "img1",
-        "level": 0,
+        "level": 1,
         "experience": 0,
         "energy": 30,
         "arenaTicket": 5,
         "diamond": 0,
         "gold": 1000,
         "guildName": "RavenClaw",
-        "arenaRank": 1
+        "arenaRank": 0
       }
     ]
   }
